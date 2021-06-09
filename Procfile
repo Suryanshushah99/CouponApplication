@@ -1,0 +1,1 @@
+web: gunicorn couponapp:app --log-file -
